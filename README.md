@@ -20,3 +20,8 @@ A simple **Flutter app** that displays **random famous quotes** based on selecte
 | ![Home](assets/images/home_screen.png) | ![Details](assets/images/detail_screen.png) |
 
 ## 📂 Project Structure  
+
+## Figma prototype link :-  
+https://www.figma.com/proto/WLTltYs1FJ2y60E8XcqGIB/Untitled?node-id=0-1&t=n9GK6PUueNpoLual-1 
+
+ 
